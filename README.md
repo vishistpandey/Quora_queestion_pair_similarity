@@ -1,4 +1,4 @@
-# Quora Question Pairs
+# Quora Question Pairs  
 ### 1. Business Problem
 #### 1.1 Description
 Quora is a place to gain and share knowledge—about anything. It’s a platform to ask questions and connect with people who contribute unique insights and quality answers. This empowers people to learn from each other and to better understand the world.
@@ -18,6 +18,7 @@ We are tasked with predicting whether a pair of questions are duplicates or not.
 - You would want a probability of a pair of questions to be duplicates so that you can choose any threshold of choice.
 - No strict latency concerns.
 - Interpretability is partially important.
+### 1.3 Status = Ongoing
 
 ## 2. Machine Learning Probelm
 ### 2.1 Data
